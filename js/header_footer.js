@@ -7,3 +7,8 @@
       $(function(){
         $("#footer").load("includes/footer.html");
       });
+
+
+
+
+      # Testing purpose
